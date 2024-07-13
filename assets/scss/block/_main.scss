@@ -13,22 +13,24 @@
     padding-top: 117px;
     margin-left: 85px;
     }
-    .gre{
+    .home_text4{
     color: #FEFCF7;
     font-family: Fraunces 9pt;
     font-weight: 900;
     font-size: 72px;
     padding-bottom: 32px;
+    width: 500px;
     }
-    .start{
+    .home_text5{
     font-family: Barlow;
     font-weight: 400;
     font-size: 16px;
     color: #FEFCF7;
     opacity: 0.8;
     padding-bottom: 56px;
+    width: 550px;
     }
-    .btn{
+    .home_text6{
     padding: 15px 31px 16px 31px;
     background-color: #66D2CF;
     border-radius: 5px;
@@ -40,25 +42,25 @@
     }
     }
     @media (max-width:560px) {
-        .main .gre{
+        .main .home_text4{
         font-size: 34px;
         }
-        .main .start{
+        .main .home_text5{
         font-size: 10px;
         }
         .main .text_box{
         margin-left: 50px;
         }
-        .main .btn{
+        .main .home_text6{
         padding: 15px 24px 16px 24px;
         font-size: 13px;
         }
     }
     @media (max-width:374px) {
-        .main .gre{
+        .main .home_text4{
         font-size: 24px;
         }
-        .main .start{
+        .main .home_text5{
         font-size: 7px;
         }
         .main{
